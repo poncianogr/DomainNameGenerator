@@ -1,1 +1,3 @@
 # DomainNameGenerator
+
+Useful Domain Generator!
